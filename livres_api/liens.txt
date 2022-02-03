@@ -1,0 +1,4 @@
+http://localhost/livres_api/livre/ => Tout afficher
+http://localhost/livres_api/livres/1 => Afficher un livre en particulier
+http://localhost/livres_api/rest/livre/post.php => Inserer un livre
+http://localhost/livres_api/rest/livre/put.php => Modifier un livre
